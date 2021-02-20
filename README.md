@@ -12,7 +12,8 @@
 - Fun fact **Whitespace is never white. :point_up::laughing:**
 
 <div>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3></div>
+<div> align="right"
   <a href="https://twitter.com/nithya_gun" target="blank"><img align="center" src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/twitter.png" alt="nithya_gun" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/nithya-gundamaraju" target="blank"><img align="center" src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/download.jpg?raw=true" alt="nithya-gundamaraju" height="20" width="20" /></a>
 <a href="https://www.hackerrank.com/@nithya_gundamar1" target="blank"><img align="center" src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/hackerrank.png" alt="@nithya_gundamar1" height="20" width="20" /></a>
