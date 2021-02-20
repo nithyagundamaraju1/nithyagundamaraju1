@@ -2,7 +2,6 @@
 <h1 align="center">Hello <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/wave.gif" width="30px"> This is Nithya Gundamaraju <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/47-476083_free-png-download-angry-woman-animated-gif-png.png" width="30px"></h1>
 <h3 align="center">A Data Enthusiast who is <em>passionate</em> towards Coding 💻. Aspiring to be the Best of Both Worlds 🌐</h3>
 
-<p align="left"> <a href="https://twitter.com/nithya_gun" target="blank"><img src="https://img.shields.io/twitter/follow/nithya_gun?logo=twitter&style=for-the-badge" alt="nithya_gun" /></a> </p>
 
 - I am currently learning and working on **Google Cloud #4285F4**
 
@@ -14,10 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nithya_gun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nithya_gun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nithya-gundamaraju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nithya-gundamaraju" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@nithya_gundamar1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@nithya_gundamar1" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/nithya_gun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="nithya_gun" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/nithya_gun" target="blank"><img src="https://img.icons8.com/cute-clipart/2x/twitter.png" alt="nithya_gun" /></a> </p>
+<a href="https://twitter.com/nithya_gun" target="blank"><img align="center" src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/twitter.png" alt="nithya_gun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nithya-gundamaraju" target="blank"><img align="center" src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/download.jpg?raw=true" alt="nithya-gundamaraju" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@nithya_gundamar1" target="blank"><img align="center" src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/hackerrank.png" alt="@nithya_gundamar1" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/nithya_gun" target="blank"><img align="center" src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/HackerEarth_logo.png" alt="nithya_gun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
