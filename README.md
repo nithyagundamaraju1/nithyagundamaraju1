@@ -1,6 +1,6 @@
 ![Header](https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/header-github.png)
 <h1 align="center">Hello <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/wave.gif" width="30px"> This is Nithya Gundamaraju <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/47-476083_free-png-download-angry-woman-animated-gif-png.png" width="30px"></h1>
-<h3 align="center">Passionate towards Coding and Data Enthusiast.Aspiring to be the Best of Both Worlds</h3>
+<h3 align="center">A Data Enthusiast who is <em>passionate</em> towards Coding 💻. Aspiring to be the Best of Both Worlds 🌐</h3>
 
 <p align="left"> <a href="https://twitter.com/nithya_gun" target="blank"><img src="https://img.shields.io/twitter/follow/nithya_gun?logo=twitter&style=for-the-badge" alt="nithya_gun" /></a> </p>
 
