@@ -1,2 +1,2 @@
-[![Header](https://raw.githubusercontent.com/nithyagundamaraju1/<OWNER>/<OWNER>/header-github.png "header-github")]
+![GitHub Logo](https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/header-github.jpg)
 
