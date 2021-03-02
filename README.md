@@ -1,12 +1,19 @@
 ![Header](https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/header-github.png)
 <h1 align="center">Hello <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/wave.gif" width="30px"> This is Nithya Gundamaraju <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/47-476083_free-png-download-angry-woman-animated-gif-png.png" width="30px"></h1>
 <h3 align="center"> Data Enthusiast and Passionate Coder 💻. Aspiring to be the Best of Both Worlds 🌐</h3>
-<hr size=10>
-<frameset cols="75%,25%">
-  <frame src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/frame1.htm"/>
-  <frame src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/edited.png"/>
-  <frame src="frame_c.htm">
-</frameset>
+<hr size=2>
+<table>
+  <tr>
+   <th>
+     <h4><u>About Me: </u></h4>
+<p>Pursuing my Masters in DataScience 🎓, I am an aspiring software developer with robust problem-solving skills and excellent analytical skills . As an individual, I am an organised and focused person. On a personal front, I enjoy cooking 🍳, reading books 📖 or undertaking some Do-it-Yourself projects 🖌️ .As an avid reader, my communication skils are pretty good🤓. On whole, I am a creative and a resourceful person with a great passion towards coding and data.</p>
+    </th>
+    <th>
+      <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/edited.png"
+    </th>
+    
+  </tr>
+
  
 
 <h3>Languages and Tools:</h3> 
