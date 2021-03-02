@@ -4,13 +4,7 @@
 <hr size=10>
 
 <h4><u>About Me: </u></h4>
-Pursuing my Masters in DataScience 🎓, an aspiring software developer with robust problem-solving skills and excellent analytical skills . As an individual, I am an organised and focused person. On a personal front, I enjoy cooking 🍳, reading books or undertaking some Do-it-Yourself projects🤓 .As an avid reader, my communication skils are pretty good. 
-
-- I’m currently learning **Full Stack Development #007ACC**
-
-- 📫 How to reach me **nithya.gundamaraju2014@gmail.com**
-
-- Fun fact **Whitespace is never white. :point_up::laughing:**
+Pursuing my Masters in DataScience 🎓, I am an aspiring software developer with robust problem-solving skills and excellent analytical skills . As an individual, I am an organised and focused person. On a personal front, I enjoy cooking 🍳, reading books 📖 or undertaking some Do-it-Yourself projects 🖌️ .As an avid reader, my communication skils are pretty good🤓. On whole, I am a creative and a resourceful person with a great passion towards coding and data.  
 
 
 <h3>Languages and Tools:</h3>
