@@ -1,10 +1,10 @@
 ![Header](https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/header-github.png)
 <h1 align="center">Hello <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/wave.gif" width="30px"> This is Nithya Gundamaraju <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/47-476083_free-png-download-angry-woman-animated-gif-png.png" width="30px"></h1>
-<h3 align="center">A Data Enthusiast and also passionate towards Coding 💻. Aspiring to be the Best of Both Worlds 🌐</h3>
+<h3 align="center"> Data Enthusiast and Passionate Coder 💻. Aspiring to be the Best of Both Worlds 🌐</h3>
+<hr size=10>
 
-
-<h4>Overview:</h4>
-
+<h4><u>About Me: </u></h4>
+Pursuing my Masters in DataScience 🎓, an aspiring software developer with robust problem-solving skills and excellent analytical skills . As an individual, I am an organised and focused person. On a personal front, I enjoy cooking 🍳, reading books or undertaking some Do-it-Yourself projects🤓 .As an avid reader, my communication skils are pretty good. 
 
 - I’m currently learning **Full Stack Development #007ACC**
 
