@@ -3,8 +3,8 @@
 <h3 align="center"> Data Enthusiast and Passionate Coder 💻. Aspiring to be the Best of Both Worlds 🌐</h3>
 <hr size=10>
 <frameset cols="75%,25%">
-  <frame src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/frame1.htm">
-  <frame src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/edited.png">
+  <frame src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/frame1.htm"/>
+  <frame src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/edited.png"/>
   <frame src="frame_c.htm">
 </frameset>
  
