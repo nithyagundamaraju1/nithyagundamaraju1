@@ -2,7 +2,7 @@
 <h1 align="center">Hello <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/wave.gif" width="30px"> This is Nithya Gundamaraju <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/47-476083_free-png-download-angry-woman-animated-gif-png.png" width="30px"></h1>
 <h3 align="center"> Data Enthusiast and Passionate Coder 💻. Aspiring to be the Best of Both Worlds 🌐</h3>
 <hr size=2>
-<table>
+<table border="0px">
   <tr>
    <th>
      <h4><u>About Me: </u></h4>
