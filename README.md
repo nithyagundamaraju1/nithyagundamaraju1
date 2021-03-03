@@ -65,9 +65,7 @@ Reinforcement learning<br>
   </p>
   </td>
   </table>
-  
-      
-   <hr size=2 >    
+ <hr size=2 >    
   <p align="center">
              <strong><em>Connect with me</em></strong>  <a href="https://twitter.com/nithya_gun" target="blank"><img align="center" src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/twitter.png" alt="nithya_gun" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/nithya-gundamaraju" target="blank"><img align="center" src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/download.jpg?raw=true" alt="nithya-gundamaraju" height="20" width="20" /></a>
