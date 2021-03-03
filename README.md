@@ -2,7 +2,7 @@
 <h1 align="center">Hello <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/wave.gif" width="30px"> This is Nithya Gundamaraju <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/47-476083_free-png-download-angry-woman-animated-gif-png.png" width="30px"></h1>
 <h3 align="center"> Data Enthusiast and Passionate Coder 💻. Aspiring to be the Best of Both Worlds 🌐</h3>
 <hr size=2>
-<h3><u> Recent Activity </u> </h3> 
+<h3><u> RECENT ACTIVITY </u> </h3> 
       <p>
   <ul>
        <li> I am currently working on Google Cloud Project.<img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/google-cloud.png" width="15px"></li>
@@ -27,7 +27,7 @@
 </table>
  
  
-<h3> Skills</h3> 
+<h3> SKILLS</h3> 
 <table align="center">
   <th style="width:50%">
 <h4>PROGRAMMING SKILLS</h4> 
@@ -71,7 +71,7 @@ Reinforcement learning<br>
   </table>
   <center>
   <p align="center">
-  <strong>Connect with me:</strong>  <a href="https://twitter.com/nithya_gun" target="blank"><img align="center" src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/twitter.png" alt="nithya_gun" height="20" width="20" /></a>
+        <strong><em>Connect with me</em></strong>  <a href="https://twitter.com/nithya_gun" target="blank"><img align="center" src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/twitter.png" alt="nithya_gun" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/nithya-gundamaraju" target="blank"><img align="center" src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/download.jpg?raw=true" alt="nithya-gundamaraju" height="20" width="20" /></a>
 <a href="https://www.hackerrank.com/@nithya_gundamar1" target="blank"><img align="center" src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/hackerrank.png" alt="@nithya_gundamar1" height="20" width="20" /></a>
 <a href="https://www.hackerearth.com/nithya_gun" target="blank"><img align="center" src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/HackerEarth_logo.png" alt="nithya_gun" height="20" width="20" /></a>
