@@ -2,6 +2,16 @@
 <h1 align="center">Hello <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/wave.gif" width="30px"> This is Nithya Gundamaraju <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/47-476083_free-png-download-angry-woman-animated-gif-png.png" width="30px"></h1>
 <h3 align="center"> Data Enthusiast and Passionate Coder 💻. Aspiring to be the Best of Both Worlds 🌐</h3>
 <hr size=2>
+<h3><u> Recent Activity </u> </h3> 
+      <p>
+  <ul>
+       <li> I am currently working on Google Cloud Project.<img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/google-cloud.png" width="15px"></li>
+       <li> Learning the Technologies: JavaScript <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/javascript-logo.png" width="15px"> , React <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/react.png" width="15px"> </li>
+    <li> Trying out my hand in various DataScience projects </li>
+    <li> Personal Website under progress</li>
+    </ul>
+      </p>
+ <hr size=3>
 <table align="center">
   <tr>
     <td>
@@ -16,19 +26,11 @@
   </tr>
 </table>
  
- <h3><u> Recent Activity </u> </h3> 
-      <p>
-  <ul>
-       <li> I am currently working on Google Cloud Project.<img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/google-cloud.png" width="15px"></li>
-       <li> Learning the Technologies: JavaScript <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/javascript-logo.png" width="15px"> , React <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/react.png" width="15px"> </li>
-    <li> Trying out my hand in various DataScience projects </li>
-    <li> Personal Website under progress</li>
-    </ul>
-      </p>
+ 
 <h3> Skills</h3> 
 <table align="center">
   <th style="width:50%">
-<h4>PROGRAMMING SKILLS</u></h4> 
+<h4>PROGRAMMING SKILLS</h4> 
   </th>
   <td>
 <p align="left">
@@ -44,7 +46,7 @@
 </td>
 <th style= "width:50%">
   
-  <h4><u>DATA SCIENCE</u></h4>
+  <h4>DATA SCIENCE</h4>
  </th>
  <td>
   <p align="left">
