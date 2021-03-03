@@ -25,9 +25,10 @@
     <li> Personal Website under progress</li>
     </ul>
       </p>
-
+<table align="justify">
+  <th>
 <h3><u>Languages and Tools:</u></h3> 
-<p align="left">
+<p align="justify">
   <ul>
     <li><b> Mobile Development:</b> Android<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="15" height="15"/> </a></li>
     <li> <b>Programming Languagues:</b> C
@@ -42,21 +43,29 @@
     <li><b> Operating Systems:</b> Linux <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="15" height="15"/> </a>
     </li>
     <li>
-      <b>Productivity Tools:</b> Git <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="15" height="15"/> </a>, Microsoft Office <a href="https://www.microsoft.com/en-in/microsoft-365/products-apps-services" target="_blank"> <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/1486565573-microsoft-office_81557.png" alt="git" width="15" height="15"/>  
+          <b>Productivity Tools:</b> Git <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="15" height="15"/> </a>, Microsoft Office <a href="https://www.microsoft.com/en-in/microsoft-365/products-apps-services" target="_blank"> <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/1486565573-microsoft-office_81557.png" alt="git" width="15" height="15"/>  
     </li>
       
 </ul>
     </p>
-
-<h3><u>Data Science:</u></h3>
+</th>
+<th>
+  <p align="justify">
+  <h3><u>Data Science:</u></h3>
 <ul>
   <li><b> Statistics:</b> Using R </li>
-  <li><b>Machine Learning Models:</b> Supervised(Classification & Regression) and Unsupervised Models (Clustering), Reinforcement learning </li>
+  <li><b>Machine Learning Models:</b> 
+  <li>Supervised(Classification & Regression)</li>
+  <li>Unsupervised Models (Clustering)</li>
+  <li>Reinforcement learning </li>
+  </li>
   <li><b>Data Visualization:</b> MS Excel, Tableau </li>
   <li><b> Python Libraries: </b> NumPy, Pandas, Scikit-learn, Keras, Flask </li>
   <li><b>Tools:</b> Graphviz, Weka</li>
   
   </ul>
+  </p>
+  </th>
 <p align="center">
   <strong>Connect with me:</strong>  <a href="https://twitter.com/nithya_gun" target="blank"><img align="center" src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/twitter.png" alt="nithya_gun" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/nithya-gundamaraju" target="blank"><img align="center" src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/download.jpg?raw=true" alt="nithya-gundamaraju" height="20" width="20" /></a>
