@@ -6,7 +6,7 @@
       <p>
   <ul>
        <li> I am currently working on Google Cloud Project.<img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/google-cloud.png" width="15px"></li>
-       <li> Learning the Technologies: JavaScript <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/javascript-logo.png" width="15px"> , React <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/react.png" width="15px"> </li>
+       <li> Learning the Technologies: Scala and JavaScript <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/javascript-logo.png" width="15px"> , React <img src="https://github.com/nithyagundamaraju1/nithyagundamaraju1/blob/main/react.png" width="15px"> </li>
     <li> Trying out my hand in various DataScience projects </li>
     <li> Personal Website under progress</li>
     </ul>
