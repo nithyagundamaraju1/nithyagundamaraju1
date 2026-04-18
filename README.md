@@ -16,7 +16,7 @@
   <tr>
     <td>
 <h4><u>About Me: </u></h4>
-<p align="justify">Pursuing my Masters in DataScience🎓, I am an aspiring software developer with robust problem-solving skills and excellent analytical skills.As an individual, I am an organised and focused person. On a personal front, I enjoy cooking 🍳, reading books📖 or undertaking some Do-it-Yourself projects🖌️.As an avid reader, my communication skils are pretty good🤓.On whole, I am a creative and a resourceful person with a great passion towards coding and data.</p>
+<p align="justify">Pursuing my Masters in DataScience🎓, I am an aspiring software developer with robust problem-solving skills and excellent analytical skills.As an individual, I am an organised and focused person. On a personal front, I enjoy reading books📖 or undertaking some Do-it-Yourself projects🖌️.As an avid reader, my communication skils are pretty good🤓.On whole, I am a creative and a resourceful person with a great passion towards coding and data.</p>
    
  </td>
     <th>
